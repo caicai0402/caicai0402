@@ -27,25 +27,16 @@
 
 <div align="center">
 
-| My Name | Cai-Yi |
-| ----------------- | ----------------------------------- |
-| **🎓 Education**   | [Your Degree, University Name, Year] |
-| **🧠 Interests**   | AI · System · Web |
-| **💼 Skills**      | Pytorch · OS · Backend |
-| **🌐 Languages**   | English · Mandarin |
+|                    |                                                                                            |
+| -----------------  | -------------------------------------------------------------------------------------------|
+| **🌍 Country**     | 🇹🇼 Taiwan                                                                                  |
+| **🎓 Education**   | M.S., National Taiwan University, 2025                                                     |
+| **🧠 Interests**   | AI (Deep Learning, NLP) · Firmware (Embedded Systems) · Web Development (React, Node.js)   |
+| **💼 Skills**      | Pytorch · TensorFlow · Backend (Django, Flask) · Operating Systems · Linux                 |
+| **🌐 Languages**   | English · Mandarin                                                                         |
 | **✉️ Contact**     | [Email](mailto:caiyihu0402@gmail.com) · [LinkedIn](https://www.linkedin.com/in/cai-yi-hu/) |
 
-| **🎵My Name**      | Cai-Yi |
-| -----------------  | ------- |
-| **🌍 Country**     | Taiwan |
-| **🎓 Education**   | M.S., National Taiwan University, 2025 |
-| **🧠 Interests**   | AI · System Programming · Web Development · Design |
-| **💼 Skills**      | Programming · Problem Solving · Design Thinking |
-| **✉️ Contact**     | [Email](mailto:r12922099@csie.ntu.edu.tw) · [LinkedIn](https://linkedin.com/in/yourprofile) |
-| **🌐 Languages**   | English · Mandarin · [Other languages] |
-
 </div>
-
 
 ## 💻 Github Stats
 
