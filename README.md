@@ -5,17 +5,22 @@
     style="width: 100%;" />
 </div>
 
-## 💻 Github Stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LouisTsai-Csie/LouisTsai-Csie/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LouisTsai-Csie/LouisTsai-Csie/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LouisTsai-Csie/LouisTsai-Csie/output/github-contribution-grid-snake-dark.svg">
-</picture>
 
 ## 💻 Github Stats
 
 <div align="center">
+<!--
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caicai0402/caicai0402/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caicai0402/caicai0402/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/caicai0402/caicai0402/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+-->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caicai0402/caicai0402/output/github-contribution-grid-snake-dark.svg />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caicai0402/caicai0402/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/caicai0402/caicai0402/output/github-contribution-grid-snake.svg" />
+  </picture>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caicai0402&layout=compact&langs_count=6&card_width=320&theme=swift" alt="Cai-Yi's Most Used Languages" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api?username=caicai0402&custom_title=Cai-Yi's%20Github%20stats&show_icons=true&rank_icon=percentile&theme=swift" alt="Cai-Yi's Github Stats" height="200"/>
 </div>
