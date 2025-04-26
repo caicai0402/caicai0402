@@ -20,8 +20,18 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caicai0402/caicai0402/output/github-contribution-grid-snake.svg" />
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/caicai0402/caicai0402/output/github-contribution-grid-snake.svg" />
   </picture>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caicai0402&layout=compact&langs_count=6&card_width=320&theme=swift" alt="Cai-Yi's Most Used Languages" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=caicai0402&custom_title=Cai-Yi's%20Github%20stats&show_icons=true&rank_icon=percentile&theme=swift" alt="Cai-Yi's Github Stats" height="200"/>
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 20px;">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=caicai0402&layout=compact&langs_count=6&card_width=320&theme=swift"
+      alt="Cai-Yi's Most Used Languages"
+      style="height: 180px; object-fit: contain;" 
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=caicai0402&custom_title=Cai-Yi's%20Github%20stats&show_icons=true&rank_icon=percentile&theme=swift"
+      alt="Cai-Yi's Github Stats"
+      style="height: 180px; object-fit: contain;" 
+    />
+  </div>
 </div>
 
 <!--
