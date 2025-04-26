@@ -1,12 +1,18 @@
-## Hi there 👋
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Comic+Relief&weight=700&letterSpacing=0.2rem&duration=3000&pause=500&color=B3376A&background=DAD8731D&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=80&lines=%F0%9F%91%8B+Hi+there!+I'm+Cai-Yi+%F0%9F%98%8E;%F0%9F%8C%9F+A+creative+developer+and+passionate+dreamer+%F0%9F%9A%80"
+    alt="👋 Hi there! I'm Cai-Yi 😎🌟 A creative developer and passionate dreamer** 🚀" 
+    style="width: 100%;" />
+</div>
 
-## 💻 Open Source Work Stats
 
-![My Github stats](https://github-readme-stats.vercel.app/api?username=caicai0402&show_icons=true)
+## 💻 Github Stats
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caicai0402&layout=compact&langs_count=6&card_width=320&theme=swift" alt="Cai-Yi's Most Used Languages" height="200"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=caicai0402&theme=gruvbox" />  -->
+  <img src="https://github-readme-stats.vercel.app/api?username=caicai0402&custom_title=Cai-Yi's%20Github%20stats&show_icons=true&rank_icon=percentile&theme=rose_pine" alt="Cai-Yi's Github Stats" height="200"/>
+</div>
 
 <!--
 **caicai0402/caicai0402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
