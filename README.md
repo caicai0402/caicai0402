@@ -30,7 +30,7 @@
 |                    |                                                                                            |
 | -----------------  | -------------------------------------------------------------------------------------------|
 | **🌍 Country**     | 🇹🇼 Taiwan                                                                                  |
-| **🎓 Education**   | M.S., National Taiwan University, 2025                                                     |
+| **🎓 Education**   | M.S. in Computer Science and Information Engineering, National Taiwan University           |
 | **🧠 Interests**   | AI (Deep Learning, NLP) · Firmware (Embedded Systems) · Web Development (React, Node.js)   |
 | **💼 Skills**      | Pytorch · TensorFlow · Operating Systems · Linux · Backend (Django, Flask)                 |
 | **🌐 Languages**   | English · Mandarin                                                                         |
