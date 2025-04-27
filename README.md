@@ -32,7 +32,7 @@
 | **🌍 Country**     | 🇹🇼 Taiwan                                                                                  |
 | **🎓 Education**   | M.S., National Taiwan University, 2025                                                     |
 | **🧠 Interests**   | AI (Deep Learning, NLP) · Firmware (Embedded Systems) · Web Development (React, Node.js)   |
-| **💼 Skills**      | Pytorch · TensorFlow · Backend (Django, Flask) · Operating Systems · Linux                 |
+| **💼 Skills**      | Pytorch · TensorFlow · Operating Systems · Linux · Backend (Django, Flask)                 |
 | **🌐 Languages**   | English · Mandarin                                                                         |
 | **✉️ Contact**     | [Email](mailto:caiyihu0402@gmail.com) · [LinkedIn](https://www.linkedin.com/in/cai-yi-hu/) |
 
