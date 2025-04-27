@@ -51,22 +51,22 @@
     <img 
         alt="Cai-Yi's Profile Summary Card"
         src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caicai0402&theme=vue"
-        style="width: 80%; margin-top: 10px;"
+        style="width: 90%; margin-top: 10px;"
     />
     <img
         alt="Cai-Yi's Stats"
         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=caicai0402&theme=vue" 
-        style="width: 40%;" 
+        style="width: 45%;" 
     />
     <img 
         alt="Cai-Yi's Repos per Language"
         src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caicai0402&theme=vue"
-        style="width: 40%;"
+        style="width: 45%;"
     />
 <!--     <img 
         alt="Cai-Yi's Productive Time" 
         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=caicai0402&theme=vue&utcOffset=8" 
-        style="width: 40%;" 
+        style="width: 45%;" 
     />
      -->
 </div>
