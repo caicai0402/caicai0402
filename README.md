@@ -38,6 +38,15 @@
 
 </div>
 
+## 🧩 Problem Solving on LeetCode
+
+<div align="center">
+    <img 
+        alt="Cai-Yi's LeetCode Stats" 
+        src="https://leetcard.jacoblin.cool/Cai_Yii?ext=heatmap"
+    />
+</div>
+
 ## 💻 Github Stats
 
 <div align="center">
@@ -67,8 +76,7 @@
         alt="Cai-Yi's Productive Time" 
         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=caicai0402&theme=vue&utcOffset=8" 
         style="width: 45%;" 
-    />
-     -->
+    /> -->
 </div>
 
 
