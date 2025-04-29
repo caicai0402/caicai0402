@@ -21,7 +21,7 @@
 </p>
 
 
-<p align="center"><i>"Run, don't walk" — Jensen Huang (2023) </i></p>
+<p align="center"><i> "Run, don't walk." — Jensen Huang, CEO of NVIDIA (2023) </i></p>
 
 ## 😀 About Me
 
