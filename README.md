@@ -34,7 +34,7 @@
 | **🧠 Interests**   | AI (Deep Learning, NLP, CV) · Firmware (Embedded Systems) · Web Development (React, Node.js)   |
 | **💼 Skills**      | Pytorch · TensorFlow · Operating Systems · Linux · Backend (Django, Flask)                     |
 | **🌐 Languages**   | English · Mandarin                                                                             |
-| **✉️ Contact**     | [Email](mailto:caiyihu0402@gmail.com) · [LinkedIn](https://www.linkedin.com/in/cai-yi-hu/)     |
+| **✉️ Contact**     | <a href="mailto:caiyihu0402@gmail.com"><img src="images/Gmail.png" alt="Email" width="20"/></a> · <a href="https://www.linkedin.com/in/cai-yi-hu/"><img src="images/LinkedIn.png" alt="LinkedIn" width="20"/></a>     |
 
 </div>
 
