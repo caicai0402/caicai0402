@@ -27,14 +27,14 @@
 
 <div align="center">
 
-|                    |                                                                                            |
-| -----------------  | -------------------------------------------------------------------------------------------|
-| **🌍 Country**     | 🇹🇼 Taiwan                                                                                  |
-| **🎓 Education**   | M.S. in Computer Science and Information Engineering, National Taiwan University           |
-| **🧠 Interests**   | AI (Deep Learning, NLP) · Firmware (Embedded Systems) · Web Development (React, Node.js)   |
-| **💼 Skills**      | Pytorch · TensorFlow · Operating Systems · Linux · Backend (Django, Flask)                 |
-| **🌐 Languages**   | English · Mandarin                                                                         |
-| **✉️ Contact**     | [Email](mailto:caiyihu0402@gmail.com) · [LinkedIn](https://www.linkedin.com/in/cai-yi-hu/) |
+|                    |                                                                                                 |
+| -----------------  | ------------------------------------------------------------------------------------------------|
+| **🌍 Country**     | 🇹🇼 Taiwan                                                                                      |
+| **🎓 Education**   | M.S. in Computer Science and Information Engineering, National Taiwan University               |
+| **🧠 Interests**   | AI (Deep Learning, NLP, CV) · Firmware (Embedded Systems) · Web Development (React, Node.js)   |
+| **💼 Skills**      | Pytorch · TensorFlow · Operating Systems · Linux · Backend (Django, Flask)                     |
+| **🌐 Languages**   | English · Mandarin                                                                             |
+| **✉️ Contact**     | [Email](mailto:caiyihu0402@gmail.com) · [LinkedIn](https://www.linkedin.com/in/cai-yi-hu/)     |
 
 </div>
 
