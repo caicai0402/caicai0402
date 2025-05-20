@@ -8,16 +8,13 @@
 </div>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Apple Badge"/>
     <img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Badge"/>
-    <img src="https://img.shields.io/badge/Alphabet(Google)-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Badge"/>
-    <img src="https://img.shields.io/badge/Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Amazon Badge"/>
     <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Badge"/>
+    <img src="https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Apple Badge"/>
+    <img src="https://img.shields.io/badge/Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Amazon Badge"/>
+    <img src="https://img.shields.io/badge/Alphabet(Google)-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Badge"/>
     <img src="https://img.shields.io/badge/Meta-0866FF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Badge"/>
     <img src="https://img.shields.io/badge/Tesla-CC0000?style=for-the-badge&logo=tesla&logoColor=white" alt="Tesla Badge"/>
-    <img src="https://img.shields.io/badge/AMD-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="AMD Badge"/>
-    <img src="https://img.shields.io/badge/Intel-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel Badge"/>
-    <img src="https://img.shields.io/badge/IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Badge"/>
 </p>
 
 
